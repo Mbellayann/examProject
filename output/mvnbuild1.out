@@ -1,0 +1,49 @@
+"C:\Program Files\AdoptOpenJDK\jdk-11.0.11.9-hotspot\bin\java.exe" "-Dmaven.multiModuleProjectDirectory=C:\Users\LENOVO X1 Carbone\OneDrive - EPITA\Documents\JAVA\yann_symphorien_mbella_onguene-adv-java" "-Dmaven.home=C:\Program Files\JetBrains\IntelliJ IDEA 2021.1.2\plugins\maven\lib\maven3" "-Dclassworlds.conf=C:\Program Files\JetBrains\IntelliJ IDEA 2021.1.2\plugins\maven\lib\maven3\bin\m2.conf" "-Dmaven.ext.class.path=C:\Program Files\JetBrains\IntelliJ IDEA 2021.1.2\plugins\maven\lib\maven-event-listener.jar" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2021.1.2\lib\idea_rt.jar=53215:C:\Program Files\JetBrains\IntelliJ IDEA 2021.1.2\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\JetBrains\IntelliJ IDEA 2021.1.2\plugins\maven\lib\maven3\boot\plexus-classworlds-2.6.0.jar;C:\Program Files\JetBrains\IntelliJ IDEA 2021.1.2\plugins\maven\lib\maven3\boot\plexus-classworlds.license" org.codehaus.classworlds.Launcher -Didea.version=2021.1.3 install
+[INFO] Scanning for projects...
+[INFO]
+[INFO] --------< org.example:yann_symphorien_mbella_onguene-adv-java >---------
+[INFO] Building yann_symphorien_mbella_onguene-adv-java 1.0-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO]
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ yann_symphorien_mbella_onguene-adv-java ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 4 resources
+[INFO]
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ yann_symphorien_mbella_onguene-adv-java ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ yann_symphorien_mbella_onguene-adv-java ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\Users\LENOVO X1 Carbone\OneDrive - EPITA\Documents\JAVA\yann_symphorien_mbella_onguene-adv-java\src\test\resources
+[INFO]
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ yann_symphorien_mbella_onguene-adv-java ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ yann_symphorien_mbella_onguene-adv-java ---
+[INFO] Surefire report directory: C:\Users\LENOVO X1 Carbone\OneDrive - EPITA\Documents\JAVA\yann_symphorien_mbella_onguene-adv-java\target\surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running TestMVN2
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec
+
+Results :
+
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO]
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ yann_symphorien_mbella_onguene-adv-java ---
+[INFO] Building jar: C:\Users\LENOVO X1 Carbone\OneDrive - EPITA\Documents\JAVA\yann_symphorien_mbella_onguene-adv-java\target\yann_symphorien_mbella_onguene-adv-java-1.0-SNAPSHOT.jar
+[INFO]
+[INFO] --- maven-install-plugin:2.4:install (default-install) @ yann_symphorien_mbella_onguene-adv-java ---
+[INFO] Installing C:\Users\LENOVO X1 Carbone\OneDrive - EPITA\Documents\JAVA\yann_symphorien_mbella_onguene-adv-java\target\yann_symphorien_mbella_onguene-adv-java-1.0-SNAPSHOT.jar to C:\Users\LENOVO X1 Carbone\.m2\repository\org\example\yann_symphorien_mbella_onguene-adv-java\1.0-SNAPSHOT\yann_symphorien_mbella_onguene-adv-java-1.0-SNAPSHOT.jar
+[INFO] Installing C:\Users\LENOVO X1 Carbone\OneDrive - EPITA\Documents\JAVA\yann_symphorien_mbella_onguene-adv-java\pom.xml to C:\Users\LENOVO X1 Carbone\.m2\repository\org\example\yann_symphorien_mbella_onguene-adv-java\1.0-SNAPSHOT\yann_symphorien_mbella_onguene-adv-java-1.0-SNAPSHOT.pom
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  6.655 s
+[INFO] Finished at: 2021-11-08T12:06:44+01:00
+[INFO] ------------------------------------------------------------------------
+
+Process finished with exit code 0
